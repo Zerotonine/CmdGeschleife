@@ -1,0 +1,7 @@
+C:\Users\Phil\source\repos\CmdGeschleife\CmdGeschleife\bin\Debug\CmdGeschleife.exe.config
+C:\Users\Phil\source\repos\CmdGeschleife\CmdGeschleife\bin\Debug\CmdGeschleife.exe
+C:\Users\Phil\source\repos\CmdGeschleife\CmdGeschleife\bin\Debug\CmdGeschleife.pdb
+C:\Users\Phil\source\repos\CmdGeschleife\CmdGeschleife\obj\Debug\CmdGeschleife.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\CmdGeschleife\CmdGeschleife\obj\Debug\CmdGeschleife.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\CmdGeschleife\CmdGeschleife\obj\Debug\CmdGeschleife.exe
+C:\Users\Phil\source\repos\CmdGeschleife\CmdGeschleife\obj\Debug\CmdGeschleife.pdb
